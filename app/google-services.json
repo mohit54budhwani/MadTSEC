@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "939665664321",
+    "firebase_url": "https://madtsec.firebaseio.com",
+    "project_id": "madtsec",
+    "storage_bucket": "madtsec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939665664321:android:00d8c61ab0d31fd7",
+        "android_client_info": {
+          "package_name": "com.example.mohityoureamazing.madclubtsec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939665664321-4b1n1nbird5kmfi52psl6i1u2l4hjr57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjjWo9-FWkAehINLBpq2kW63FTJ_g1dAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939665664321-4b1n1nbird5kmfi52psl6i1u2l4hjr57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
